@@ -1,6 +1,6 @@
 # Maps 
 
-| Name | Opinion | Notes |  Thumbnail |
+| Name | Opinion | Notes |  Thumbnail (click image for larger image) |
 | --- | --- | --- | --- |
 | Augury | shit | underground crypt-type map, small corridors - pull levers for room in middle of map, otherwise just like Seepage |
 | Backwash | shit | tree roots, not great for breech |
