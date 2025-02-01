@@ -18,7 +18,7 @@
 | Rustbowl | great | open, good visibility, rust colored |
 | Sandspit | great | lots of beachfront, wide open lanes except through the mid|
 | Seepage | shit | underground crypt-type map, small corridors - boss room in SW, otherwise just like Augury |
-| Sinking Spire | - | tower - inside a pyramid, map is a triangle with 3 floors | ![sinking spire](./images/sinking-spire.png) |
+| Sinking Spire | - | tower - inside a pyramid, map is a triangle with 3 floors | ![Sinking Spire](./images/sinking-spire.png) |
 | Slick | great | underground, wide corridors |
 | Steaming Springs | great | fairly open desert/tropical type map with small corridors between each wide open section |
 | Steppe | great | wide open |
