@@ -6,6 +6,7 @@
 | Backwash | shit | tree roots, not great for breech |
 | Blooming Field | shit | Vines and bad pathing |
 | Bluff | - | tower |
+| Burial Bog | good | fairly wide lanes with not much obstruction, dreary though | ![Burial bog image](./images/burial-bog.png) |
 | Crypt | average | not great for breech, corridors about 6 characters wide |
 | Forge | average | elavated moderate passageways over lava |
 | Hive | average | desert map, smaller lanes, open and sunny which is nice, but not great for breach |
