@@ -7,7 +7,7 @@
 | Blooming Field | shit | Vines and bad pathing |
 | Bluff | - | tower |
 | Burial Bog | good | fairly wide lanes with not much obstruction, dreary though | ![Burial bog image](./images/burial-bog.png) |
-| Crypt | average | not great for breech, corridors about 6 characters wide |
+| Crypt | average | not great for breech, corridors about 6 characters wide | <div><img src="./images/burial-bog.png" alt="burial bog image" width="10%" /></div> |
 | Forge | average | elavated moderate passageways over lava |
 | Hive | average | desert map, smaller lanes, open and sunny which is nice, but not great for breach |
 | Hidden Grotto | average | not great for breeches, 4-5 width lanes but at least minions can shoot between them and aren't blocked |
@@ -19,7 +19,7 @@
 | Rustbowl | great | open, good visibility, rust colored |
 | Sandspit | great | lots of beachfront, wide open lanes except through the mid|
 | Seepage | shit | underground crypt-type map, small corridors - boss room in SW, otherwise just like Augury |
-| Sinking Spire | - | tower - inside a pyramid, map is a triangle with 3 floors | ![Sinking Spire](./images/sinking-spire.png) |
+| Sinking Spire | - | tower - inside a pyramid, map is a triangle with 3 floors | ![Sinking Spire image](./images/sinking-spire.png) |
 | Slick | great | underground, wide corridors |
 | Steaming Springs | great | fairly open desert/tropical type map with small corridors between each wide open section |
 | Steppe | great | wide open |
