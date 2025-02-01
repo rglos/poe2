@@ -5,9 +5,10 @@
 | Augury | shit | underground crypt-type map, small corridors - pull levers for room in middle of map, otherwise just like Seepage |
 | Backwash | shit | tree roots, not great for breech |
 | Blooming Field | shit | Vines and bad pathing |
-| Bluff | - | tower |
+| Bluff | - | tower |dw
 | Burial Bog | good | fairly wide lanes with not much obstruction, dreary though | <img src="./images/burial-bog.png" alt="burial bog image" width="20%" /> |
 | Crypt | average | not great for breech, corridors about 6 characters wide |
+| Deserted | good | large rooms connected by corridors | <img src="./images/deserted.png" alt="deserted image" width="20%" /> | 
 | Forge | average | elavated moderate passageways over lava |
 | Hive | average | desert map, smaller lanes, open and sunny which is nice, but not great for breach |
 | Hidden Grotto | average | not great for breeches, 4-5 width lanes but at least minions can shoot between them and aren't blocked |
