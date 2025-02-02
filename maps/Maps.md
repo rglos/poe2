@@ -15,6 +15,7 @@
 | Limestone Hideout  | - | get limestone hideout |
 | Mesa  | - | tower |
 | Mire  | shit | wicker map with narrow lanes |
+| Necropolis | shit | tight lanes, minions get stuck sometimes and can't shoot across lanes | <img src="./images/necropolis.png" alt="necropolis image" width="20%" />|
 | Oasis | great | wide open map |
 | Ravine | average | very linear, open outside canyon-like, not great for breach, at least minions don't get stuck in doorways, like a tower map |
 | Rustbowl | great | open, good visibility, rust colored |
