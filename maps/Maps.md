@@ -20,6 +20,7 @@
 | Ravine | average | very linear, open outside canyon-like, not great for breach, at least minions don't get stuck in doorways, like a tower map |
 | Rustbowl | great | open, good visibility, rust colored |
 | Sandspit | great | lots of beachfront, wide open lanes except through the mid|
+| Savannah | great | nice wide open map | <img src="./images/savannah.png" alt="savannah image" width="20%" /> |
 | Seepage | shit | underground crypt-type map, small corridors - boss room in SW, otherwise just like Augury |
 | Sinking Spire | - | tower - inside a pyramid, map is a triangle with 3 floors | <img src="./images/sinking-spire.png" alt="sinking spire image" width="20%" />|
 | Slick | great | underground, wide corridors |
